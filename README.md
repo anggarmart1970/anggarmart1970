@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning IBM Data Sciene
+- 🌱 I’m currently learning IBM Data Science
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...angelgmartinez1970@gmail.com
 
